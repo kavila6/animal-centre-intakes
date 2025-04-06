@@ -9,7 +9,7 @@ Many animals are euthanized in shelters due to overcrowding and limited resource
 Explore the process, methodology, and key findings:  
 <p align="center">
   <a href="https://docs.google.com/presentation/d/12NT_EXuGT3CUvEWvozrSCCW91rGqv0qm/edit?usp=sharing&ouid=106708788260229897760&rtpof=true&sd=true" target="_blank">
-    <img src="https://github.com/user-attachments/assets/9491c213-17dd-437b-9b1c-959730da7cd0" alt="" width="600"/>
+    <img src="https://github.com/user-attachments/assets/fecff98d-0fba-4eb4-abd3-03bf7b4dcb6e" alt="" width="600"/>
   </a>
   <br>
   <em>Animal Euthanasia Presentation Report</em>
